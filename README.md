@@ -3,9 +3,12 @@ EnticEdge-Beyondbooksmart Development
 
 # Approved Design:
 https://wetransfer.com/downloads/823a7504a2447b98eb98a9b3228cf39a20240109161853/057649
-Mobile Designs: https://wetransfer.com/downloads/06f256b7821c4eb72767954a0124553a20240124153848/f68217
+
+Mobile Designs: https://wetransfer.com/downloads/06f256b7821c4eb72767954a0124553a20240124153848/f6827
+
 Site-Map: https://www.canva.com/design/DAFzaDhI9J4/xYmlioqgplrF2D5g12hl2g/edit
-Site redesign content mapping analysis & metadata | Beyond BookSmart
+
+Site redesign content mapping analysis & metadata | Beyond BookSmart: 
 https://docs.google.com/spreadsheets/d/17Qy-mOgwRDGVTYaPhxWzZKTT6NynQ5yZ6hXZDVsV31k/edit?pli=1#gid=0
 
 
@@ -20,6 +23,7 @@ https://www.beyondbooksmart.com/
 
 # Tickets:
 https://timesheet.computan.com/tickets/ticketitem/1314707
+
 https://timesheet.computan.com/tickets/ticketitem/1314299
 
 # GitHub Project:
