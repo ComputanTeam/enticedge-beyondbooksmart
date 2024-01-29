@@ -42,9 +42,9 @@ https://timesheet.computan.com/tickets/ticketitem/1314299 (*ADD TIME HERE ONLY*)
 
 **Primary Developers:**
 
-	|_ Awais Abbas
+	Awais Abbas
+	Muhammad Suleman
 
-	|_ Muhammad Suleman
+**QC:**
 
-QC:
-	|_ TBD
+	TBD
