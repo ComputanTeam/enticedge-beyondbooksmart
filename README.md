@@ -47,4 +47,4 @@ https://timesheet.computan.com/tickets/ticketitem/1314299 (*ADD TIME HERE ONLY*)
 
 **QC:**
 
-	TBD
+	Mahreen Hashmi
