@@ -1,4 +1,4 @@
-# EnticEdge-Beyondbooksmart Development
+# EnticEdge Beyondbooksmart Development
 
 # **Description:**
 
