@@ -30,7 +30,7 @@ https://www.canva.com/design/DAFzaDhI9J4/xYmlioqgplrF2D5g12hl2g/edit
 
 # **GitHub Project:**
 
-https://github.com/orgs/ComputanTeam/projects/104/views/1
+https://github.com/orgs/ComputanTeam/projects/107
 
 # **TimeSheet Tickets:**
 
